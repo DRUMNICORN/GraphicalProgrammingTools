@@ -1,6 +1,6 @@
 # Overview of Existing Graphical Programming Tools
 
-> I initially started developing Nodium as a custom graphical programming tool. However, during the process, I discovered existing tools that already provided the functionality I aimed to build. Switching to these solutions allowed me to save time, reduce development costs, and focus on integration rather than reinventing features that were readily available.
+> I initially started developing a project called "Nodium" as a custom graphical programming tool. However, during the process, I discovered existing tools that already provided the functionality I aimed to build. Switching to these solutions allowed me to save time, reduce development costs, and focus on integration rather than reinventing features that were readily available.
 
 ## Introduction
 
